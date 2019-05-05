@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/daily"
+        android:title="@string/daily"
+        android:icon="@drawable/ic_daily"/>
+
+    <item
+        android:id="@+id/album"
+        android:title="@string/album"
+        android:icon="@drawable/ic_gallery"/>
+    <item
+        android:id="@+id/musvid"
+        android:title="@string/musvid"
+        android:icon="@drawable/ic_musvid"/>
+    <item
+        android:id="@+id/profil"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profil"/>
+
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Self Apps</string>
+    //WALKTROUGHT
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">PROFIL</string>
+    <string name="slide_1_desc">Gilang Apps berisi tentang Gilang KW</string>
+
+    <string name="slide_2_title">GALERI</string>
+    <string name="slide_2_desc">Banyak foto foto menarik dan indah dari gilang kw</string>
+
+    <string name="slide_3_title">PENASARAN ?</string>
+    <string name="slide_3_desc">Mau tau ada apa lagi di aplikasi ini ? Lanjut aja</string>
+
+    //Bottom Navigation
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="album">Gallery</string>
+    <string name="musvid">Musik,Video</string>
+    <string name="profile">Profile</string>
+
+    //home
+    <string name="name">Gilang Kusuma wijaya</string>
+    <string name="Jensk">Laki-Laki</string>
+    <string name="jENSK1">Jenis Kelamin</string>
+
+
+
+</resources>
